@@ -1,0 +1,20 @@
+title: Ben's Blag
+description: > 
+  Profound Profundities
+copyright: Untitled
+sass:
+  sass_dir: assets/sass
+url: benhu.me
+disqus_shortname: benhume
+facebook_username: huisben
+twitter_username: imbenhu
+linkedin_username: huben
+instagram_username: huisben
+pinterest_username:
+flickr_username:
+github_username:  
+feed_icon: rss
+email: "#"
+gems: [jekyll-paginate]
+paginate_path: "/page/:num/"
+paginate: 5
