@@ -1,7 +1,7 @@
 locale: "en-US"
 title: Ben's Blag # Title of your site
 url: "benhu.me/enter" # the base hostname & protocol for your site
-baseurl: "/enter/" # the subpath of your site, e.g. /blog/
+baseurl: "/enter" # the subpath of your site, e.g. /blog/
 google_analytics_key: "UA-106353725-1"
 
 # Default description in social shares for the jekyll-seo-tag gem
