@@ -1,6 +1,6 @@
 locale: "en-US"
 title: Ben's Blag # Title of your site
-url: "huisben.github.io/enter" # the base hostname & protocol for your site
+url: "benhu.me/enter" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 google_analytics_key: "UA-106353725-1"
 
