@@ -1,8 +1,11 @@
 locale: "en-US"
 title: Ben's Blag # Title of your site
-url: "benhu.me/enter" # the base hostname & protocol for your site
-baseurl: "/enter" # the subpath of your site, e.g. /blog/
+url: "benhu.me/" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
 google_analytics_key: "UA-106353725-1"
+source: "blag"
+destination: "blag/_site"
+
 
 # Default description in social shares for the jekyll-seo-tag gem
 description: > # this means to ignore newlines until "baseurl:"
@@ -20,7 +23,7 @@ social:
   links:
     - https://www.linkedin.com/in/huben
 
-permalink: pretty
+permalink: /:title/
 
 gems:
   - "jekyll-feed"

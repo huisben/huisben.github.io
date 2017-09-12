@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Awkward day for a first post
-categories: blog
+categories: 
 date: 2017-09-11
 ---
 <img src="{{ site.baseurl }}/images/fulls/newgroundzero.jpg" class="fit image">
