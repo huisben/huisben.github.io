@@ -1,6 +1,6 @@
 locale: "en-US"
 title: Ben's Blag # Title of your site
-url: "benhu.me" # the base hostname & protocol for your site
+url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
 baseurl: "/blag" # the subpath of your site, e.g. /blog/
 google_analytics_key: "UA-106353725-1"
 source: "blag"
