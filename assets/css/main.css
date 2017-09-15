@@ -123,6 +123,10 @@ a:hover {
   background-color: #ff8866 !important;
 }
 
+.icon.fa-instagram:hover:before {
+  background-color: #bc2a8d !important;
+}
+
 /* Wrapper */
 #wrapper {
   height: 100%;
